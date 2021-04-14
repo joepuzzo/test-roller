@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@joepuzzo/roller": "^1.0.1"
+    "@joepuzzo/roller": "^1.1.0"
   },
   "devDependencies": {
     "rollup": "^2.8.2",

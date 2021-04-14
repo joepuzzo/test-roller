@@ -1,3 +1,5 @@
-import { a } from '@joepuzzo/roller';
+import { a, b, ab } from '@joepuzzo/roller';
 
 a();
+b();
+ab();
